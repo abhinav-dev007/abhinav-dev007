@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning application development using flutter.
 - 💞️ I’m looking to collaborate on real world projects using flutter.
 - 📫 You can reach me on:-
-          - secondbest007 on discord
-          - https://www.linkedin.com/in/abhinav-das-22b200163?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+   - secondbest007 on discord
+   - https://www.linkedin.com/in/abhinav-das-22b200163?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 <!---
 abhinav-dev007/abhinav-dev007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
